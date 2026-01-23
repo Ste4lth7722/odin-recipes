@@ -1,0 +1,15 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body {
+    background-color: rgba(243, 221, 207, 0.719);
+}
+
+a {
+    color: rgb(85, 31, 15)
+}
+
+.recipe-link {
+    font-weight: 600;
+}
