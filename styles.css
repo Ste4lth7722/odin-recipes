@@ -1,5 +1,6 @@
 * {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
 }
 
 body {
@@ -12,4 +13,44 @@ a {
 
 .recipe-link {
     font-weight: 600;
+}
+
+img {
+    border-radius: 32px;
+    box-shadow: 20px 25px 40px rgba(0, 0, 0, 0.438);
+    margin-bottom: 42px;
+}
+
+ul li {
+    text-align: left;
+}
+
+ol li {
+    text-align: justify;
+}
+
+ul {
+    margin: 0 10vw;
+    display: inline-block;
+}
+
+ol, p {
+    margin: 0 10vw;
+}
+
+h3 {
+    background-color: rgb(216, 184, 154);
+    border-radius: 12px;
+    margin: 20px 50px 30px 50px;
+    padding: 4px;
+}
+
+#home {
+    border-radius: 12px;
+    border-width: 2px;
+    border-style: solid;
+    margin: 20px 5vw;
+    padding: 4px;
+    display: block;
+    background-color: rgba(255, 225, 169, 0.719);
 }
